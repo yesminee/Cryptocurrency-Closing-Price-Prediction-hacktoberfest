@@ -1,6 +1,6 @@
 
 Evaluation
-The error metric for this competition is the Root Mean Squared Error.
+The error metric  is the Root Mean Squared Error.
 
 For every row in the dataset, submission files should contain 2 columns: ID and Target.
 Variable definitions
